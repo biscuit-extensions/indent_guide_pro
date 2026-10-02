@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "indent_guide_pro"
+version = "0.1.0"
+description = "Enhanced indentation guides and block scope visualizers"
+authors = ["billyeatcookies"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+biscuit-editor = "^3.0.1"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
