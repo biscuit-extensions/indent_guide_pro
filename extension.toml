@@ -1,0 +1,7 @@
+[extension]
+id = "indent_guide_pro"
+name = "Indent Guide Pro"
+version = "0.1.0"
+description = "Indent Guide Pro extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
